@@ -14,6 +14,7 @@
 		AF2B386D23E09C0700048A41 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AF2B386C23E09C0700048A41 /* Assets.xcassets */; };
 		AF2B387023E09C0700048A41 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AF2B386E23E09C0700048A41 /* LaunchScreen.storyboard */; };
 		AF2B387823E09F9500048A41 /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF2B387723E09F9500048A41 /* SwiftyJSON.swift */; };
+		AF811D2C23E48E4200CA3CA0 /* ArticlesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF811D2B23E48E4200CA3CA0 /* ArticlesViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		AF2B386F23E09C0700048A41 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AF2B387123E09C0700048A41 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AF2B387723E09F9500048A41 /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
+		AF811D2B23E48E4200CA3CA0 /* ArticlesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArticlesViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				AF2B386323E09C0400048A41 /* AppDelegate.swift */,
 				AF2B386523E09C0400048A41 /* SceneDelegate.swift */,
 				AF2B386723E09C0400048A41 /* SourcesViewController.swift */,
+				AF811D2B23E48E4200CA3CA0 /* ArticlesViewController.swift */,
 				AF2B386923E09C0400048A41 /* Main.storyboard */,
 				AF2B386C23E09C0700048A41 /* Assets.xcassets */,
 				AF2B386E23E09C0700048A41 /* LaunchScreen.storyboard */,
@@ -145,6 +148,7 @@
 				AF2B386423E09C0400048A41 /* AppDelegate.swift in Sources */,
 				AF2B386623E09C0400048A41 /* SceneDelegate.swift in Sources */,
 				AF2B387823E09F9500048A41 /* SwiftyJSON.swift in Sources */,
+				AF811D2C23E48E4200CA3CA0 /* ArticlesViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
